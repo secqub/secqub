@@ -4,8 +4,7 @@
 </div>
 
 ## Experience
- - Developer from Donbass, Donetskaya oblast
- - I love robots, AI, hacking and development
+ - Soon. . .
 
 ## My stack
  - Soon. . .
@@ -18,7 +17,9 @@
 
 # ⚡ Fun fact: 
  - I use Fedora Linux
-![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
+ - I love ascii art and pixels!
+ - I love robots, AI, hacking and development
+ - ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
 
 
 
