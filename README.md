@@ -1,6 +1,7 @@
 <div align="center">
-![test](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=100&duration=4000&pause=1010&center=true&random=false&width=1500&height=220&lines=Python+developer+from+Donbass)
+  [![test](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=100&duration=4000&pause=1010&center=true&random=false&width=1500&height=220&lines=Python+developer+from+Donbass)](https://git.io/typing-svg)
 </div>
+
 ### Hi there 👋
 <!--
 **cryptoproxy/cryptoproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
