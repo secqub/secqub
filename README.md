@@ -14,6 +14,7 @@
 
 # ⚡ Fun fact: 
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
+![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/dec4127b-a6e4-4dee-a773-df4596ea860e)
 
 
 
