@@ -7,6 +7,8 @@
  - Soon. . .
 
 ## My stack
+<div align="center">
+
    ![aiogram](https://img.shields.io/badge/aiogram-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -24,7 +26,6 @@
 OTHER
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-Fedora, Ebuntu, Debian, etc..
 
 
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
@@ -34,7 +35,7 @@ Fedora, Ebuntu, Debian, etc..
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-
+</div>
 
 SOON...
 
