@@ -8,12 +8,16 @@
  - I love robots, AI, hacking and development
 
 ## My stack
-  soon. . .
- 
-## Projects
-  soon. . .
+ - Soon. . .
+   
+## Favorite projects
+ - XBOXMANAGER - private repository
+ - senku.ru - disabled
+ - [Sub-domen search](https://github.com/cryptoproxy/prototype_crawler) - ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/c6258997-0b37-470e-a7e7-b390692d2afa)
+ - My favorite project is hackers-search ...?? TOP SECRET NOW.
 
 # ⚡ Fun fact: 
+ - I use Fedora Linux
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
 
 
