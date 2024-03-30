@@ -3,10 +3,21 @@
   [![test](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=96&duration=4000&pause=1010&center=true&random=false&width=1500&height=220&lines=Python+developer+from+Donbass)](https://git.io/typing-svg)
 </div>
 
-### Hi there 👋
----
-# Ooops
----
+## Experience
+  soon. . .
+
+## My stack
+  soon. . .
+
+## Projects
+
+
+# ⚡ Fun fact: 
+![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
+
+
+
+  
 
 <!--
 **cryptoproxy/cryptoproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +31,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
