@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![test](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&weight=700&size=96&duration=4000&pause=1010&center=true&random=false&width=1500&height=220&lines=Python+developer+from+Donbass)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=F74F1F&random=false&width=435&lines=Developer+from+Donbass)](https://git.io/typing-svg)
 </div>
 
 ## Experience
