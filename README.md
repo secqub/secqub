@@ -7,10 +7,13 @@
  - Developer from Donbass, Donetskaya oblast
  - I love robots, AI, hacking and development
 
+
 ## My stack
   soon. . .
 
+ 
 ## Projects
+  soon. . .
 
 
 # ⚡ Fun fact: 
