@@ -49,7 +49,8 @@ SOON...
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/c6258997-0b37-470e-a7e7-b390692d2afa)
 
 # ⚡ Fun fact: 
- - Linux+PyCharm ONLY, Windows+vscode=💀💀💀
+ - Linux+PyCharm=❤️
+ - Windows+vscode=💀💀💀
  - I love ascii art and pixels!
  - only monero, tails, and whonix -.-
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
