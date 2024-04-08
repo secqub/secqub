@@ -37,10 +37,10 @@ SOON...
 
    
 ## Favorite projects
- - My favorite project is hackers-search ...WHAT?? Top secret now.
+ - I like my hackers-search ...WHAT?? Top secret now.
  - XBOXMANAGER - private repository
- - senku.ru - disabled
- - [Sub-domen search](https://github.com/cryptoproxy/prototype_crawler)
+ - senku***** - disabled
+ - [Sub-domen search (i like this) ](https://github.com/cryptoproxy/prototype_crawler)
 
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/c6258997-0b37-470e-a7e7-b390692d2afa)
 
