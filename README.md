@@ -39,16 +39,15 @@ SOON...
 
    
 ## Favorite projects
- - I like my hackers-search ...WHAT?? Top secret now.
+ - I like my hackers-search. Top secret now.
  - XBOXMANAGER - private repository
- - senku***** - disabled
- - [Sub-domen search (i like this) ](https://github.com/cryptoproxy/prototype_crawler)
+ - senkulab - disabled
+ - [Sub-domen search (i like it) ](https://github.com/cryptoproxy/prototype_crawler)
 
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/c6258997-0b37-470e-a7e7-b390692d2afa)
 
 # ⚡ Fun fact: 
- - Linux+PyCharm/Fleet ONLY
- - Windows+vscode=💀💀💀
+ - Linux+PyCharm/Fleet/vscode
  - I love ascii art and pixels!
  - only monero, tails, and whonix -.-
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
