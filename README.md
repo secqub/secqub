@@ -42,7 +42,7 @@ SOON...
  - I like my hackers-search. Top secret now.
  - XBOXMANAGER - private repository
  - senkulab.com - disabled
- - [Sub-domen search (i like it) ](https://github.com/cryptoproxy/prototype_crawler)
+ - [Sub-domen search (very stupid code and search method :D ) ](https://github.com/cryptoproxy/prototype_crawler)
 
 ![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/c6258997-0b37-470e-a7e7-b390692d2afa)
 
