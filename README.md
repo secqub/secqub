@@ -50,7 +50,6 @@ SOON...
  - Linux+PyCharm/Fleet/vscode
  - I love ascii art and pixels!
  - only monero, tails, and whonix -.-
-![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/62094955-2942-43b0-b1cd-4a467d2999e5)
 
 
 
