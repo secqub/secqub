@@ -43,7 +43,6 @@ SOON...
  - XBOXMANAGER - private repository
  - senkulab.com - disabled
 
-![image](https://github.com/cryptoproxy/cryptoproxy/assets/143442849/c6258997-0b37-470e-a7e7-b390692d2afa)
 
 # ⚡ Fun fact: 
  - Linux+PyCharm/Fleet/vscode
