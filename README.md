@@ -3,9 +3,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=64&duration=3600&pause=1000&color=E12901&center=true&random=true&width=1500&height=220&lines=Developer+from+Donbass)](https://git.io/typing-svg)
 </div>
 
-## Experience
- - Soon. . .
-
 ## My stack
 <div align="center">
 
