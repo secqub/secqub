@@ -35,7 +35,7 @@ SOON...
 
    
 ## Favorite projects
- - I like my hackers-search. Top secret now.
+ - search engine.
  - XBOXMANAGER - private repository
  - senkulab.com - disabled
 
