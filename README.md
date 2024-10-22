@@ -3,7 +3,12 @@
 <!--[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=64&duration=3600&pause=1000&color=E12901&center=true&random=true&width=1500&height=220&lines=Developer+from+Donbass)](https://git.io/typing-svg)-->
 </div>
 
-## My stack
+### My stack
+- Python, SQL, Bash, JavaScript, HTML, CSS
+- Linux, Django, FastAPI, Docker, Git, PostgreSQL, Postman, BurpSuite, Redis, PyCharm/NeoVim/Fleet/vscode
+
+- TDD, network protocols, Figma, aiogram
+<!--
 <div align="center">
 
    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -24,7 +29,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 </div>
-
+-->
 
 
 
