@@ -7,6 +7,7 @@
 - Python, SQL, Bash, JavaScript, HTML, CSS
 - Linux, Django, FastAPI, Docker, Git, PostgreSQL, Postman, BurpSuite, Redis, PyCharm/NeoVim/Fleet/vscode
 
+: other
 - TDD, network protocols, Figma, aiogram
 <!--
 <div align="center">
