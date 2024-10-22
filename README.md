@@ -30,9 +30,9 @@
 
    
 ## Favorite projects
- - search engine.
- - XBOXMANAGER - private repository
- - senkulab.com - disabled
+ - searchmap: you can watch it here [https://github.com/secqub/web-tools](webtools) (api keys included)
+ - xmanager: private repository
+ - senkulab.com: in development, new project! :}
 
 
 
